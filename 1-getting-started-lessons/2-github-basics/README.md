@@ -197,7 +197,7 @@ All these resources will benefit onboarding new team members. And those are typi
 Contributing docs help people contribute to the project. It explains what types of contributions you're looking for and how the process works. Contributors will need to go through a series of steps to be able to contribute to your repo on GitHub:
 
 
-1. **Forking your repo** You will probably want people to _fork_ your project. Forking means creating a replica of your repository on their GitHub profile.
+1. **Forking your repo**. You will probably want people to _fork_ your project. Forking means creating a replica of your repository on their GitHub profile.
 1. **Clone**. From there they will clone the project to their local machine. 
 1. **Create a branch**. You will want to ask them to create a _branch_ for their work. 
 1. **Focus their change on one area**. Ask contributors to concentrate their contributions on one thing at a time - that way the chances that you can _merge_ in their work is higher. Imagine they write a bug fix, add a new feature, and update several tests - what if you want to, or can only implement 2 out of 3, or 1 out of 3 changes?
